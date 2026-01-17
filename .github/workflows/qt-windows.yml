@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    if: false # Disable for now
+    if: true # Disable for now
 
     runs-on: windows-2019
 
